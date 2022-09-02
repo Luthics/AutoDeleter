@@ -5,3 +5,15 @@
 github: https://github.com/Luthics/AutoDeleter
 
 gitee: https://gitee.com/wenl_com/AutoDeleter
+
+todo:
+
+清理指定日期前的文件
+
+清理指定类型文件
+
+保留指定文件
+
+规则导入导出
+
+云规则
